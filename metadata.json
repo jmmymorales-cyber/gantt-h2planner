@@ -1,0 +1,6 @@
+{
+  "name": "Section Planning Gantt",
+  "description": "A professional construction and maintenance planning tool featuring collapsible project groupings, a custom weekly calendar timeline (July-December), horizontal Gantt scrolling, proportional cost allocation, status-tracking indicators, and a Master Cost Gantt reconciliation panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
